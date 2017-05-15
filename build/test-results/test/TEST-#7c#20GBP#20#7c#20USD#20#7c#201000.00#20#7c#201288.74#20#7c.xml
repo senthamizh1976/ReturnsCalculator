@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="| GBP | USD | 1000.00 | 1288.74 |" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-14T23:17:11" hostname="Senthamizhs-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="Given sourceCurrency is GBP, targetCurrency is USD and conversionAmount given as 1000.00" classname="| GBP | USD | 1000.00 | 1288.74 |" time="0.0"/>
+  <testcase name="Then result must be 1288.74" classname="| GBP | USD | 1000.00 | 1288.74 |" time="0.001"/>
+  <testcase name="classMethod" classname="| GBP | USD | 1000.00 | 1288.74 |" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps testCalculate
+INFO: 
+testCalculate - 1000.0
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps testCalculate
+INFO: 
+testCalculate-targetAmount- 1288.64
+]]></system-err>
+</testsuite>

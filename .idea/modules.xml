@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReturnsCalculator.iml" filepath="$PROJECT_DIR$/.idea/modules/ReturnsCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReturnsCalculator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ReturnsCalculator_main.iml" group="ReturnsCalculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReturnsCalculator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ReturnsCalculator_test.iml" group="ReturnsCalculator" />
+    </modules>
+  </component>
+</project>

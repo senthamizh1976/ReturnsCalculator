@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.java.bestbank.calculator.core.tests.ReturnsCalculatorRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="Senthamizhs-MacBook-Pro.local" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+16 Scenarios (?[32m16 passed?[0m)
+32 Steps (?[32m32 passed?[0m)
+0m0.273s
+
+]]></system-out>
+  <system-err><![CDATA[May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.CalculatorSteps testCompoundInterestRateReturnResult
+INFO: testCompoundInterestRateReturnResult - 2475200.0
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.CalculatorSteps testCompoundInterestRateReturnResult
+INFO: testCompoundInterestRateReturnResult - 2475200.0
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.CalculatorSteps testCompoundInterestRateReturnResult
+INFO: testCompoundInterestRateReturnResult - 4251644.981460951
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.CalculatorSteps testCompoundInterestRateReturnResult
+INFO: testCompoundInterestRateReturnResult - 57304.26430507543
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.CalculatorSteps testSimpleInterestRateReturnResult
+INFO: testSimpleInterestRateReturn - 27200.0
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.CalculatorSteps testSimpleInterestRateReturnResult
+INFO: testSimpleInterestRateReturn - 27200.0
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.CalculatorSteps testSimpleInterestRateReturnResult
+INFO: testSimpleInterestRateReturn - 12000.0
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.CalculatorSteps testSimpleInterestRateReturnResult
+INFO: testSimpleInterestRateReturn - 26880.0
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps conversionRateIs
+INFO: 
+conversionRateIs - 1.28864
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps conversionRateIs
+INFO: 
+conversionRateIs-FX - 1.28864
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps convertedAmountIs
+INFO: 
+convertedAmountIs- 128.864
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps conversionRateIs
+INFO: 
+conversionRateIs - 1.28864
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps conversionRateIs
+INFO: 
+conversionRateIs-FX - 1.28864
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps conversionRateIs
+INFO: 
+conversionRateIs - 82.7989
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps conversionRateIs
+INFO: 
+conversionRateIs-FX - 82.7989
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps conversionRateIs
+INFO: 
+conversionRateIs - 1.1789
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps conversionRateIs
+INFO: 
+conversionRateIs-FX - 1.1789
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps convertedAmountIs
+INFO: 
+convertedAmountIs- 1288.74
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps convertedAmountIs
+INFO: 
+convertedAmountIs- 827988.172011
+May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps convertedAmountIs
+INFO: 
+convertedAmountIs- 10075.563162
+]]></system-err>
+</testsuite>

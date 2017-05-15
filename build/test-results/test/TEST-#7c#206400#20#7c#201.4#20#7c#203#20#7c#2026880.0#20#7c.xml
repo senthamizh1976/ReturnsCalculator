@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="| 6400 | 1.4 | 3 | 26880.0 |" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-14T23:17:11" hostname="Senthamizhs-MacBook-Pro.local" time="0.006">
+  <properties/>
+  <testcase name="Given principal is 6400, interestRate is 1.4 and numberOfTime is 3" classname="| 6400 | 1.4 | 3 | 26880.0 |" time="0.002"/>
+  <testcase name="Then The Simple Interest Return for single currency is 26880.0" classname="| 6400 | 1.4 | 3 | 26880.0 |" time="0.001"/>
+  <testcase name="classMethod" classname="| 6400 | 1.4 | 3 | 26880.0 |" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.CalculatorSteps testSimpleInterestRateReturn
+INFO: testSimpleInterestRateReturn - 26880.0
+]]></system-err>
+</testsuite>

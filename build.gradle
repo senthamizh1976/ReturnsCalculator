@@ -1,0 +1,25 @@
+group 'com.java.bestbank'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+    testCompile 'info.cukes:cucumber-java8:1.2.4'
+    testCompile 'info.cukes:cucumber-junit:1.2.4'
+    compile("org.springframework.boot:spring-boot-starter-web:1.5.3.RELEASE")
+    testCompile("org.springframework.boot:spring-boot-starter-test:1.5.3.RELEASE")
+    compile("org.codehaus.jackson:jackson-core-asl:1.9.13")
+    compile("org.codehaus.jackson:jackson-mapper-asl:1.9.13")
+    compile("com.google.code.gson:gson:2.8.0")
+    compile("com.googlecode.json-simple:json-simple:1.1.1")
+
+ }

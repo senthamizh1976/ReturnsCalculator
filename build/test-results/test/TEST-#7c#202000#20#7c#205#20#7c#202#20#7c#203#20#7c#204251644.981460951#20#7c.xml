@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="| 2000 | 5 | 2 | 3 | 4251644.981460951 |" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-14T23:17:11" hostname="Senthamizhs-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="Given principal is 2000, time is 5, interestRate is 2 and numberOfTime is 3" classname="| 2000 | 5 | 2 | 3 | 4251644.981460951 |" time="0.0"/>
+  <testcase name="Then The Compound Interest is 4251644.981460951" classname="| 2000 | 5 | 2 | 3 | 4251644.981460951 |" time="0.001"/>
+  <testcase name="classMethod" classname="| 2000 | 5 | 2 | 3 | 4251644.981460951 |" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.CalculatorSteps testCompoundInterestRateReturn
+INFO: testCompoundInterestRateReturn - 4251644.981460951
+]]></system-err>
+</testsuite>

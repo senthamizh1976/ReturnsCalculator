@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: Get FX Rate for single currency" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-14T23:17:11" hostname="Senthamizhs-MacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="Given sourceCurrency is GBP and targetCurrency is USD" classname="Scenario: Get FX Rate for single currency" time="0.001"/>
+  <testcase name="Then The conversionRate is 1.28864" classname="Scenario: Get FX Rate for single currency" time="0.001"/>
+  <testcase name="classMethod" classname="Scenario: Get FX Rate for single currency" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[May 15, 2017 12:17:11 AM com.java.bestbank.calculator.core.tests.FXCalculatorSteps testFXRate
+INFO: 
+testFXRate - 1.28864
+]]></system-err>
+</testsuite>
